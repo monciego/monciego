@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Spotify](https://novatorem-hazel-psi.vercel.app/api/spotify)](https://open.spotify.com/user/bwbn9zmf30zbwy254iksud8lc)
+
 <!--
 **monciego/monciego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
