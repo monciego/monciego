@@ -25,12 +25,12 @@
 <table width="100%"> 
   <tr>
   <td width="50%">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=monciego&show_icons=true&locale=en"  alt="monciego" /></p> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=monciego&show_icons=true&locale=en&theme=radical"  alt="monciego" /></p> 
 
   </td>
   <td width="50%">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monciego&"  alt="monciego" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monciego&theme=dark"  alt="monciego" /></p>
   </td>
 </table>
 
