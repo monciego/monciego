@@ -34,4 +34,4 @@
 </table>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monciego" alt="monciego" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monciego&theme=onestar&row=1&margin-w=15" alt="monciego" /></a> </p>
