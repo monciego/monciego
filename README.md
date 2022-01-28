@@ -1,7 +1,7 @@
 ## Hi 👋, I'm [Jericho Bantiquete](https://jerichobantiquete.netlify.app/)
 <h3 align="left">A passionate frontend developer from Philippines</h3>
 
-- 👨‍💻 All of my projects are available at [https://jerichobantiquete.netlify.app/](https://jerichobantiquete.netlify.app/)
+- 👨‍💻 Some of my projects are available at [https://jerichobantiquete.netlify.app/](https://jerichobantiquete.netlify.app/)
 
 - 📫 How to reach me **jerichobantiquete@gmail.com**
 
