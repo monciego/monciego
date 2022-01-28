@@ -30,7 +30,7 @@
   </td>
   <td width="50%">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monciego&theme=dark"  alt="monciego" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monciego&theme=radical"  alt="monciego" /></p>
   </td>
 </table>
 
