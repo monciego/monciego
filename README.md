@@ -1,4 +1,5 @@
 ## Hi 👋, I'm [Jericho Bantiquete](https://jerichobantiquete.netlify.app/)
+> #### I am looking for internship
 <h3 align="left">A passionate frontend developer from Philippines</h3>
 
 - 👨‍💻 Some of my projects are available at [https://jerichobantiquete.netlify.app/](https://jerichobantiquete.netlify.app/)
