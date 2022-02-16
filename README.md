@@ -34,6 +34,9 @@
   <a href="https://styled-components.com/" target="_blank" rel="noreferrer">
    <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="styled components" width="24" height="24"/>
  </a>
+ <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="24" height="24"/> 
+ </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="24" height="24"/>
   </a>
@@ -52,12 +55,9 @@
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="24" height="24"/>
  </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="24" height="24"/> 
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="24" height="24"/> 
  </a> 
- <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="24" height="24"/> 
-  </a> 
-
 </p>
 
 
