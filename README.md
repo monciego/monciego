@@ -1,7 +1,5 @@
 ## Hi 👋, I'm [Jericho Bantiquete](https://jerichobantiquete.netlify.app/)
-> #### I am looking for internship
-> - University requirement
-> - atleast 486 hours
+> #### ~~I am looking for internship~~
 
 <h3 align="left">A passionate frontend developer from Philippines</h3>
 
