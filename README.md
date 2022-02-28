@@ -5,7 +5,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://jerichobantiquete.netlify.app/](https://jerichobantiquete.netlify.app/)
 
--  🌱 I’m currently learning **react hooks, react typescript, next js, angular, php**
+-  🌱 I’m currently learning **react hooks, react typescript, next js, gatsby, angular, php**
 
 - 📫 How to reach me **jerichobantiquete@gmail.com**
 
