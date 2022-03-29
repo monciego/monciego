@@ -5,7 +5,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://jerichobantiquete.netlify.app/](https://jerichobantiquete.netlify.app/)
 
--  🌱 I’m currently learning **typescript, angular, ~~react native, svelte, next js, gatsby, , laravel~~**
+-  🌱 I’m currently learning **typescript, angular, ~~react native, svelte, next js, gatsby, laravel~~**
 
 - 📫 How to reach me **jerichobantiquete@gmail.com**
 
