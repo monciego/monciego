@@ -4,7 +4,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://jerichobantiquete.netlify.app/](https://jerichobantiquete.netlify.app/)
 
--  🌱 I’m currently learning **angular, php, ~~next js~~**
+-  🌱 I’m currently learning **angular,  ~~php,next js~~**
 
 - 📫 How to reach me **jerichobantiquete@gmail.com**
 
