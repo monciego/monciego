@@ -2,11 +2,14 @@
 
 <h3 align="left">A passionate developer from Philippines</h3>
 
+- 🚀 Currently giving assistance in developing systems for those in their bachelor's or master's degree.
+
 - 👨‍💻 Some of my projects are available at [https://jerichobantiquete.netlify.app/](https://jerichobantiquete.netlify.app/)
 
 <!-- -  🌱 I’m currently learning **angular, nodejs, express, ~~next js~~** -->
 
 - 📫 How to reach me **jerichobantiquete@gmail.com**
+
 
 [![Spotify](https://novatorem-hazel-psi.vercel.app/api/spotify?background_color=0D1117&border_color=f2f2f2)](https://open.spotify.com/user/bwbn9zmf30zbwy254iksud8lc)
 
