@@ -4,7 +4,7 @@
 
 - 🚀 Currently giving assistance in developing systems for those in their bachelor's or master's degree.
 
-- 👨‍💻 Some of my projects are available at [https://jerichobantiquete.netlify.app/](https://jerichobantiquete.netlify.app/)
+- 👨‍💻 Some of my projects are available at [https://jerichobantiquete.vercel.app/](https://jerichobantiquete.vercel.app/)
 
 <!-- -  🌱 I’m currently learning **angular, nodejs, express, ~~next js~~** -->
 
