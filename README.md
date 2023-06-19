@@ -1,4 +1,4 @@
-## Hi 👋, I'm [Jericho Bantiquete](https://jerichobantiquete.netlify.app/)
+## Hi 👋, I'm [Jericho Bantiquete](https://jerichobantiquete.vercel.app/)
 
 <h3 align="left">A passionate developer from Philippines</h3>
 
