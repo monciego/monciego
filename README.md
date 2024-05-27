@@ -2,7 +2,10 @@
 
 <h3 align="left">A passionate developer from Philippines</h3>
 
-- 🚀 Currently giving assistance in developing systems for those in their bachelor's or master's degree.
+<!-- - 🚀 Currently giving assistance in developing systems for those in their bachelor's or master's degree. -->
+  
+- 🚀 Currently building a product in a startup.
+
 - 🤓 I use vim btw
 
 - 👨‍💻 Some of my projects are available at [https://jerichobantiquete.vercel.app/](https://jerichobantiquete.vercel.app/)
