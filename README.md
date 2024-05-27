@@ -1,6 +1,6 @@
-## Hi 👋, I'm [Jericho Bantiquete](https://jerichobantiquete.vercel.app/)
+## Hi 👋, I'm [monciego](https://jerichobantiquete.vercel.app/)
 
-<h3 align="left">A passionate developer from Philippines</h3>
+<h3 align="left">Just a guy from the Philippines</h3>
 
 <!-- - 🚀 Currently giving assistance in developing systems for those in their bachelor's or master's degree. -->
   
