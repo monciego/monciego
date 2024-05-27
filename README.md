@@ -7,7 +7,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://jerichobantiquete.vercel.app/](https://jerichobantiquete.vercel.app/)
 
-<!-- -  🌱 I’m currently learning **angular, nodejs, express, ~~next js~~** -->
+- 🌱 I’m currently learning **[Remix](https://remix.run/), [GO](https://go.dev/), and [SST](https://sst.dev/)** 
 
 - 📫 How to reach me **jerichobantiquete@gmail.com**
 
