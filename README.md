@@ -1,8 +1,8 @@
-## Hi 👋, I'm [monciego](https://jerichobantiquete.vercel.app/)
+<!-- ## Hi 👋, I'm [monciego](https://jerichobantiquete.vercel.app/)
 
 <h3 align="left">Just a guy from the Philippines</h3>
 
-<!-- - 🚀 Currently giving assistance in developing systems for those in their bachelor's or master's degree. -->
+ 🚀 Currently giving assistance in developing systems for those in their bachelor's or master's degree.
   
 - 🚀 Currently building a product in a startup.
 
@@ -82,11 +82,6 @@
  </a> 
 </p>
 
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monciego&show_icons=true&locale=en" alt="monciego" /></p> -->
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monciego&" alt="monciego" /></p> -->
-
 <table width="100%"> 
   <tr>
   <td width="50%">
@@ -101,3 +96,4 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monciego&theme=onestar&row=1&margin-w=15" alt="monciego" /></a> </p>
+-->
