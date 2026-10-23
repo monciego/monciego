@@ -1,4 +1,4 @@
-neovim, tmux, zed, zen browser, obsidian, linux (ubuntu), opencode
+i use neovim btw
 
 <!--
 
